@@ -1,0 +1,21 @@
+body {
+background: -webkit-linear-gradient(left ,#ffcc99, #ffccb2,#ff9966 );
+
+  margin: 0 auto;
+  max-width: 50em;
+  font-family: "Comic Sans MS", "Arial", cursive;
+  line-height: 1.5;
+  padding: 4em 1em;
+  color: #1a1a1a;
+  background-color: #d2a679;
+}
+
+h2 {
+  margin-top: 1em;
+  padding-top: 1em;
+}
+
+h1, h2, strong {
+  color: black;
+}
+#c2a385
